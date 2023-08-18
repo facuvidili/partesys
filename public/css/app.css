@@ -1,0 +1,15 @@
+#icono{
+    display:flex;
+    position:relative;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    margin-top: 5%;
+    transition: box-shadow 0.1s, transform 0.1s;
+    background-size: cover;
+}
+#icono:hover{
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 1);
+}
